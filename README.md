@@ -21,5 +21,5 @@ A simple weather application that fetches and displays weather data for a given 
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/yourusername/weather-app.git
+git clone https://github.com/AyodhyaSankalpa/weather-app.git
 cd weather-app
